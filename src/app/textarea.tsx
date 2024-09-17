@@ -27,8 +27,6 @@ export const TextAreaComponent = () => {
       })
     };
 
-    console.log('result', resultText)
-
     return (
 <>
           <div className="w-full mb-4">
